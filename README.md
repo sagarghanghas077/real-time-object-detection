@@ -23,3 +23,9 @@ pedestrians, and common objects from live video streams.
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+
+
+## Web Demo
+The project includes a Streamlit-based web application for image and video
+object detection, deployable on Streamlit Cloud.
+
